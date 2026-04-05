@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NakedTrashPanda!</h1>
-<h3 align="center">An aspiring program and developer.</h3>
+<h3 align="center">An aspiring programmer and developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakedtrashpanda&label=Profile%20views&color=6d00ba&style=flat" alt="nakedtrashpanda" /> </p>
 
